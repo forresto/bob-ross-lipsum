@@ -1,0 +1,25 @@
+{
+  "name": "bob-ross-lipsum",
+  "version": "0.0.1",
+  "description": "Phrases from Bob Ross' Joy of Painting, alternative to Lorem Ipsum text, inspired by http://bobrosslipsum.com/",
+  "main": "index.js",
+  "scripts": {
+    "postversion": "git push && git push --tags && npm publish"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/forresto/bob-ross-lipsum.git"
+  },
+  "keywords": [
+    "lorem ipsum",
+    "lipsum",
+    "bob ross",
+    "happy little trees"
+  ],
+  "author": "forresto",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/forresto/bob-ross-lipsum/issues"
+  },
+  "homepage": "https://github.com/forresto/bob-ross-lipsum#readme"
+}
