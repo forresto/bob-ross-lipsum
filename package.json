@@ -1,6 +1,6 @@
 {
   "name": "bob-ross-lipsum",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Phrases from Bob Ross' Joy of Painting, alternative to Lorem Ipsum text, inspired by http://bobrosslipsum.com/",
   "main": "index.js",
   "scripts": {
